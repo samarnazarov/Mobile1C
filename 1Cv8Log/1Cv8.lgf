@@ -10,4 +10,15 @@ be2d1dd0-8f2b-4b35-98f9-cf7350eaa1cb
 {13,1,1},
 {4,"_$Session$_.Start",4},
 {4,"_$InfoBase$_.ConfigUpdate",5},
-{4,"_$Session$_.Finish",6}
+{4,"_$Session$_.Finish",6},
+{4,"_$InfoBase$_.DBConfigUpdateStart",7},
+{4,"_$InfoBase$_.DBConfigUpdate",8},
+{3,"1CV8C",2},
+{1,071523a4-516f-4fce-ba4b-0d11ab7a1893,"",2},
+{3,"BackgroundJob",3},
+{13,1,2},
+{4,"_$Transaction$_.Begin",9},
+{4,"_$Data$_.Delete",10},
+{5,de96b451-52c7-4d78-a934-f60e3f24d797,"Справочник.КатегорияРасходов",1},
+{4,"_$Transaction$_.Commit",11},
+{5,3d249b3b-1919-4426-b224-dc802fdf4292,"Документ.УчетРасходов",2}
